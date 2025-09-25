@@ -1,0 +1,8 @@
+//create layer and upload in lambda layers ,,, go to lambda - layer - upload zip file
+
+mkdir -p python
+pip install requests-toolbelt -t python/
+zip -r requests-toolbelt-layer.zip python
+
+
+// go to function - Add layer - custom layer - select 
