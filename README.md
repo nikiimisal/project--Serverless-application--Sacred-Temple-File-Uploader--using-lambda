@@ -1,5 +1,16 @@
 # project--Serverless-application--Sacred-Temple-File-Uploader
 
+<h2>Quick Overview to Understand The Flow</h2>
+<br>
+<h3>1. Create lambda function.<br>
+2. Create bucket in S3.<br>
+3. Create Dyanomodb DB.<br>
+4. In lambada function develope(create) a sutable code for project & deploy.<br>
+5. You will need to create a library for creating layer. To do this, go to Lambadaa → Layers → Create Layers.<br>
+6. Now scroll down in the same Lambda function where you wrote the code. There you’ll see an Add Layer option — use it to add the layer you created.<br>
+7. create url and copy pest the brouser ..here will you go ..your serverless project run.<br></h3>
+
+
 A beautiful temple-themed file upload system built with AWS Lambda. Users can upload files to S3 bucket with an immersive spiritual experience. The application features animated temple design, floating elements, and sacred-themed UI.
 
 ## Features
