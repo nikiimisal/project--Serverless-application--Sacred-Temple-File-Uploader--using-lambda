@@ -11,7 +11,7 @@
 8. create url and copy pest the brouser ..here will you go ..your serverless project run.<br></h4>
 
 >>if you want know how to setup this project basics.. so i also provided a video demo here is the link<br>
-https://youtu.be/LFQFJsdni9M?si=UkJI8bSZVqDPL2xZ
+https://youtu.be/TV2890D2cw0?si=_6MDjKarylRPVSac
 
 <br>
 <h1>📌 Introduction</h1>
